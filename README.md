@@ -4,4 +4,4 @@
 
 This is the companion repository for the YouTube video showing the configuration and build of the fully parametric (customisable), 3D printed PTT button.
 
-[![](customisable-3d-printed-ptt-button)](https://youtu.be/JhqlpaZscgQ)
+[![](customisable-3d-printed-ptt-button.png)](https://youtu.be/JhqlpaZscgQ)
