@@ -1,2 +1,7 @@
-# customisable-ptt-button
-Fully parametric (customisable), 3D printed PTT button - Because one size never fits all!
+# Parametric (customisable) 3D Printed PTT Button
+
+- Because one size never fits all!
+
+This is the companion repository for the YouTube video showing the configuration and build of the fully parametric (customisable), 3D printed PTT button.
+
+[![](customisable-3d-printed-ptt-button)](https://youtu.be/JhqlpaZscgQ)
